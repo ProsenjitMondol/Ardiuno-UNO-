@@ -45,4 +45,4 @@ Refer to the YouTube video for a detailed explanation of the circuit setup.
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/ProsenjitMondol/Ardiuno-UNO-.git)
+   git clone https://github.com/ProsenjitMondol/Ardiuno-UNO-.git
